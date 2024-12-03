@@ -1,6 +1,6 @@
 function changeGreeting() {
     var greetingElement = document.getElementById('greeting');
-    greetingElement.innerText = 'You clicked the button!';
+    greetingElement.innerText = 'You clicked tha button!';
 }
 
 document.addEventListener('DOMContentLoaded', function() {
